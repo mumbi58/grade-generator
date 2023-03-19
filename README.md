@@ -3,7 +3,7 @@
 ###  author 
 kariuki mumbi 2023
 ## description
-speed detector toy which shows the number of points a driver has or if the licence of the driver is suspended 
+grade generator outputs the garde of a student once they have entered their marks
 ### project setup
 
 ![image](https://user-images.githubusercontent.com/126749794/226175717-fb8babe3-5006-4ef9-a8ac-70e1f51d753c.png)
